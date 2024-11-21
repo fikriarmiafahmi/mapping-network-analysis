@@ -20,10 +20,10 @@ Ensure the following libraries are installed:
 - `shapely`
 
 To install all these libraries, use:
+
 ```bash
 pip install geopandas pandas matplotlib networkx shapely
 ```
-
 ## Project Structure
 shape_Banten/indonesia_Province_level_1.shp: Shapefile for the Indonesian region.
 tower.py: Module for generating tower locations.
