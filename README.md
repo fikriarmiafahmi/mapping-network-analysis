@@ -33,7 +33,6 @@ sampel.py: Module for simulating user and signal data.
 Ensure all related files (shapefile, tower module, and sampel module) are in the same directory as the main script.
 
 Run the script with Python:
-
 bash```
 python mapping_network.py
 ```
