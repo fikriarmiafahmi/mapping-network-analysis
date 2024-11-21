@@ -35,6 +35,7 @@ Run the script with Python:
 bash```
 python mapping_network.py
 ```
+
 The signal distribution and network map will be displayed after the simulation completes.
 
 ## Visualization Results
